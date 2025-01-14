@@ -1,5 +1,5 @@
 # Group-15
-Li Lu, tu24288@bristol.ac.uk, cactus562   
+Lu Li, tu24288@bristol.ac.uk, cactus562   
 WEI LIU, ir24727@bristol.ac.uk, ir24727   
-Shuxiao Shi, ux24132@bristol.ac.uk, Wentaa
+Shuxiao Shi, ux24132@bristol.ac.uk, Wentaa  
 Qinyuan Lu, he24343@bristol.ac.uk, mdfcsC
